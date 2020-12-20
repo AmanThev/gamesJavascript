@@ -1,0 +1,28 @@
+.container{
+  position:     absolute;
+  left:         50%;
+  margin-left:  -200px;
+  top:          50px;
+}
+
+table{
+  border:       10px solid red;
+  width:        500px;
+  height:       500px;
+  background:   red;
+  border-style: outset;
+  border-radius:  2px;
+}
+
+table td{
+  border:         1px solid red;
+  background:     white;
+  border-radius:  5px;
+  text-align:     center;
+}
+
+p{
+  font-size:    4em;
+  color:        #850606;
+  text-align:   center;
+}
